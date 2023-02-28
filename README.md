@@ -6,4 +6,4 @@
 
 🔷 I'm aspiring to explore my knowledge and skills.
 
-🎯 I'm intrested in machine learning.
+🎯 I'm intrested in machine learning & AI.
