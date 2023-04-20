@@ -7,16 +7,13 @@
 - 🌱 I’m currently learning **Web Devlopment**
 - 🎯 I'm intrested in Machine learning & AI.
 - 🔷 I'm aspiring to explore my knowledge and skills.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssumankumari&label=Profile%20views&color=0e75b6&style=flat" alt="ssumankumari" /> </p>
-
 - 📫 How to reach me **sumankumaripatna2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/ssumankumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ssumankumari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-kumari-8a1434273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-kumari-8a1434273/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sumankumaripatn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sumankumaripatn1" height="30" width="40" /></a>
+<a href="https://dev.to/ssumankumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ssumankumari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suman-kumari-8a1434273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-kumari-8a1434273/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sumankumaripatn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumankumaripatn1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssumankumari&show_icons=true&locale=en" alt="ssumankumari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssumankumari&" alt="ssumankumari" /></p>
-
