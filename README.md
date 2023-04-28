@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/123852425/222472792-44241236-c16e-4524-839a-9d83dd42113b.png)
 <h1 align="center">Hi 👋, I'm Suman Kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssumankumari&label=Profile%20views&color=0e75b6&style=flat" alt="ssumankumari" /> </p>
 
