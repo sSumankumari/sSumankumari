@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/123852425/222472792-44241236-c16e-4524-839a-9d83dd42113b.png)
+
 <h1 align="center">Hi 👋, I'm Suman Kumari</h1>
 <h3 align="center">"Embarking on the Data Science Journey"</h3>
 
