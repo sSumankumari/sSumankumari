@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssumankumari&label=Profile%20views&color=0e75b6&style=flat" alt="ssumankumari" /> </p>
 
-- 🔭 I’m interested in **Diving into NLP and deep learning for a smarter tomorrow**
+- 🔭 I’m interested in **Deep Diving into NLP and deep learning for a smarter tomorrow**
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m currently working on **ML projects**
+- 👩🏻‍💻 I’m currently working on **ML projects**
 
 - 📫 How to reach me **sumankumaripatna2005@gmail.com**
 
