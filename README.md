@@ -11,7 +11,7 @@
 
 - 👯 I’m currently working on **ML projects**
 
-- 💞️ I’m looking forward to work as a Data Scientist in future
+- 🎯 I’m looking forward to work as a Data Scientist in future
 
 - 📫 How to reach me **sumankumaripatna2005@gmail.com**
 
