@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/suman-kumari-8a1434273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-kumari-8a1434273/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumankumaripatn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumankumaripatn1" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/suman-kumari.2e8b2227" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.kxc9X61jS7vjA_lAt8D3zAHaDt?rs=1&pid=ImgDetMain" alt="suman-kumari.2e8b2227" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
