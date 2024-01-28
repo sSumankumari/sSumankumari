@@ -31,7 +31,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> </p>
 
 ## **My Certifications**
-<p> Data Science for Engineers (8 weeks Course from IIT Madras): <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> certificate </p>
+<p> Data Science for Engineers (8 weeks Course from IIT Madras): <a href="https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs97/Course/NPTEL23CS97S3437286910125385.pdf" target="_blank" rel="noreferrer"> certificate </p>
 
 
 ## **My Stats**
