@@ -34,7 +34,7 @@
 <p> Postman API Program: <a href="https://badgr.com/public/assertions/0tayQ3iyTQGMV0m_a3OuBA" target="_blank" rel="noreferrer"> badge </p>
 <p> Python for Data Science: <a href="https://courses.cognitiveclass.ai/certificates/92a308f9bccd4adbb60d47e3722a1a1a" target="_blank" rel="noreferrer"> certificate </p>
 <p> Data Science for Engineers (8 weeks Course from IIT Madras): <a href="https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs97/Course/NPTEL23CS97S3437286910125385.pdf" target="_blank" rel="noreferrer"> certificate </p>
-<p> Web Development (8 weeks Course from Internshala): <a href="https://trainings.internshala.com/s/v/2979521/309ccd0e" target="_blank" rel="noreferrer"> certificate </p>" target="_blank" rel="noreferrer"> certificate </p>
+<p> Web Development (8 weeks Course from Internshala): <a href="https://trainings.internshala.com/s/v/2979521/309ccd0e" target="_blank" rel="noreferrer"> certificate </p>
 
 
 ## **My Stats**
