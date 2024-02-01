@@ -7,7 +7,6 @@
 
 - 🔭 I’m interested in **Deep Diving into AI and NLP for a smarter tomorrow**
 - 🌱 I’m currently learning **Machine learning**
-- 👯 I’m currently working on **ML projects**
 - 🎯 I’m looking forward to work as a **Data Scientist** in future
 
 
