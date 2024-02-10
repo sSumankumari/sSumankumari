@@ -6,9 +6,9 @@
 <h2> About Me </h2>
 
 - 🔭 Passionate about delving deep into the realms of **AI**, **ML**, and **NLP** for a smarter tomorrow.
-- 🌱 Currently immersed in the study of **Machine Learning**, aiming to cultivate a profound understanding of its principles and applications.
-- 🎯 Aspiring to contribute as a **Data Scientist** in shaping data-driven solutions for real-world challenges.
-- 📚 Actively pursuing knowledge in cutting-edge technologies and methodologies to stay ahead in the ever-evolving field of AI.
+- 🌱 Currently immersed in the world of **Machine Learning**, with a focus on building a robust foundation.
+- 🎯 Aspiring **Data Scientist**, dedicated to crafting impactful solutions through data-driven insights.
+- 📚 Continuously learning and adapting to the dynamic landscape of AI to stay at the forefront of innovation.
 
 
 <h2> Connect With Me </h2>
