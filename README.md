@@ -5,9 +5,10 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m interested in **Deep Diving into AI and NLP for a smarter tomorrow**
-- 🌱 I’m currently learning **Machine learning**
-- 🎯 I’m looking forward to work as a **Data Scientist** in future
+- 🔭 Passionate about delving deep into the realms of **AI**, **ML**, and **NLP** for a smarter tomorrow.
+- 🌱 Currently immersed in the study of **Machine Learning**, aiming to cultivate a profound understanding of its principles and applications.
+- 🎯 Aspiring to contribute as a **Data Scientist** in shaping data-driven solutions for real-world challenges.
+- 📚 Actively pursuing knowledge in cutting-edge technologies and methodologies to stay ahead in the ever-evolving field of AI.
 
 
 <h2> Connect With Me </h2>
