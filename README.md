@@ -8,7 +8,6 @@
 - 🔭 Passionate about delving deep into the realms of **AI**, **ML**, and **NLP** for a smarter tomorrow.
 - 🌱 Currently immersed in the world of **Deep Learning**, with a focus on building a robust foundation.
 - 🎯 Aspiring **Data Scientist**, dedicated to crafting impactful solutions through data-driven insights.
-- 📚 Continuously learning and adapting to the dynamic landscape of AI to stay at the forefront of innovation.
 
 
 
