@@ -10,7 +10,7 @@
 - 🌱 Currently specializing in **Deep Learning** to establish a strong foundation.
 - 🎯 Aspiring **Data Scientist**, dedicated to crafting impactful solutions with data-driven insights.
 - 📚 Continuously learning to stay innovative in AI.
-- 📫 How to reach me sumankumaripatna2005@gmail.com
+- 📫 How to reach me sumank.ds1@gmail.com
 
 
 <h2> Connect With Me </h2>
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/suman-kumari-8a1434273/" target="blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>
 </a>  
-<a href="mailto:sumankumaripatna2005@gmail.com">
+<a href="mailto:sumank.ds1@gmail.com">
   <img src="https://img.icons8.com/clouds/48/000000/email.png"/>
 </a>
 </p>
