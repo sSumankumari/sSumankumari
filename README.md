@@ -17,16 +17,16 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/suman-kumari-8a1434273/" target="blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" width="40" height="40"/>
 </a>  
 <a href="mailto:sumank.ds1@gmail.com">
-  <img src="https://img.icons8.com/clouds/48/000000/email.png"/>
+  <img src="https://img.icons8.com/clouds/48/000000/email.png" width="40" height="40"/>
 </a>
 <a href="https://www.hackerrank.com/profile/sumankumaripatn1" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+  <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" width="40" height="40"/>
 </a>
-<a href="" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+<a href="https://leetcode.com/sSumankumari/" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
 </a>
 </p>
 
