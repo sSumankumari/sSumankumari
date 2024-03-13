@@ -22,6 +22,12 @@
 <a href="mailto:sumank.ds1@gmail.com">
   <img src="https://img.icons8.com/clouds/48/000000/email.png"/>
 </a>
+<a href="https://www.hackerrank.com/profile/sumankumaripatn1" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+</a>
+<a href="" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+</a>
 </p>
 
 
