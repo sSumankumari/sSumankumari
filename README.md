@@ -28,6 +28,9 @@
 <a href="https://leetcode.com/sSumankumari/" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
 </a>
+<a href="https://www.geeksforgeeks.org/user/sumankumari_ds/" target="blank">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" height="40"/>
+</a>
 </p>
 
 
