@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hi, I'm Suman Kumari!</h1>
-<h3 align="center">Aspiring Full Stack AI Engineer</h3>
+<h3 align="center">Aspiring Data Scientist | AI-Powered Full Stack Developer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sSumankumari&label=Profile%20views&color=0e75b6&style=flat" alt="sSumankumari" />
 </p>
-
----
-
-🌟 Welcome! I’m a passionate student exploring the intersection of Artificial Intelligence, Machine Learning, and Full Stack Web Development. My goal is to bridge advanced AI and real-world applications, building impactful, user-centric solutions. I thrive on practical, project-driven learning and am always eager to collaborate with others and contribute to open-source communities.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sSumankumari&theme=nord&no-bg=true" alt="sSumankumari" />
+  </a>
+</p>
 
 ---
 
@@ -19,34 +20,34 @@
 - 🧠 Continuously building and refining skills in Data Structures & Algorithms (DSA) and modern software engineering practices.
 - 🌱 Committed to lifelong learning, open-source contribution, and engaging with the tech community to drive innovation.
 - 🤝 Open to collaboration, internships, and engaging in impactful open-source projects.
-- 🔗 Let's connect:
+
+### 🔗 Let's connect:
   <a href="https://www.linkedin.com/in/sumaninsights/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" width="28" height="28" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sSumankumari?tab=repositories" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="28" height="28" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://suman-kumari.onrender.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" width="28" height="28" alt="Portfolio"/>
+    <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Portfolio"/>
   </a>
   <a href="mailto:sumank.ds1@gmail.com">
-    <img src="https://img.icons8.com/clouds/48/000000/email.png" width="28" height="28" alt="Email"/>
+    <img src="https://img.icons8.com/clouds/48/000000/email.png" width="40" height="40" alt="Email"/>
   </a>
 
 ---
 
-## 🛠️ Skills & Interests
+## 🛠️ Skills
 
-- **Programming Languages:** Python, Java, C/C++
-- **AI & Machine Learning:** Deep Learning, Neural Networks, Generative AI, LLMs, Computer Vision, Scikit-learn, TensorFlow, PyTorch
-- **Natural Language Processing (NLP):** HuggingFace Transformers, spaCy, NLTK, Text Analytics, Prompt Engineering
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, ReactJS, Flask, FastAPI
-- **Databases:** MySQL, MongoDB (basics)
-- **Cloud & DevOps:** AWS, GCP, Azure, Docker, GitHub Actions, Postman
-- **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
-- **Software Engineering:** Data Structures & Algorithms (primarily in Java/Python), System Design (basics), RESTful API Development
-- **Other:** Open Source Contribution, Technical Documentation, Project Management
-- **Soft Skills:** Problem Solving, Teamwork, Communication, Leadership, Agile Practices
+- **Programming:** Python, Java, C/C++
+- **Web:** HTML, CSS, JavaScript, Bootstrap, ReactJS, Flask, FastAPI
+- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Deep Learning, LLMs, Generative AI
+- **NLP:** HuggingFace, spaCy, NLTK, Text Analytics, Prompt Engineering
+- **Databases:** MySQL, MongoDB
+- **Cloud & DevOps:** AWS, GCP, Azure, Docker, GitHub Actions
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+- **Software Engineering:** DSA, RESTful APIs, System Design (basics)
+- **Other:** Git, Postman, Open Source Contribution, Project Management, Communication & Teamwork
 
 ---
 
