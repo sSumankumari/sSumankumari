@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/sumaninsights/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/sSumankumari?tab=repositories" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40" alt="GitHub"/>
-  </a>
   <a href="https://suman-kumari.onrender.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Portfolio"/>
   </a>
@@ -39,12 +36,11 @@
 
 ## 🛠️ Skills
 
-- **Programming:** Python, Java, C/C++
-- **Web:** HTML, CSS, JavaScript, Bootstrap, ReactJS, Flask, FastAPI
+- **Programming:** Python, Java, C/C++, MySQL (database)
+- **Web:** HTML, CSS, JavaScript, Bootstrap, ReactJS, Flask, FastAPI, Streamlit
 - **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Deep Learning, LLMs, Generative AI
 - **NLP:** HuggingFace, spaCy, NLTK, Text Analytics, Prompt Engineering
-- **Databases:** MySQL, MongoDB
-- **Cloud & DevOps:** AWS, GCP, Azure, Docker, GitHub Actions
+- **Cloud & DevOps:** AWS, GCP, Azure, GitHub Actions
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
 - **Software Engineering:** DSA, RESTful APIs, System Design (basics)
 - **Other:** Git, Postman, Open Source Contribution, Project Management, Communication & Teamwork
