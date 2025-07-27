@@ -25,6 +25,9 @@
   <a href="https://www.linkedin.com/in/sumaninsights/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" width="40" height="40" alt="LinkedIn"/>
   </a>
+  <a href="https://leetcode.com/u/sSumankumari/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40" alt="LeetCode"/>
+</a>
   <a href="https://suman-kumari.onrender.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" width="40" height="40" alt="Portfolio"/>
   </a>
