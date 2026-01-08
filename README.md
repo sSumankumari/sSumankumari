@@ -40,10 +40,10 @@
 ## 🛠️ Skills
 
 - **Programming:** Python, C/C++, Go (Golang), Java (DSA), SQL
+- **Data & Databases:** Pandas, NumPy, FAISS, Vector Embeddings, MySQL, MongoDB
+- **AI/ML:** LLMs, RAG, Transformers, Scikit-learn, TensorFlow, PyTorch 
 - **Full-Stack:** HTML, CSS, JavaScript, React.js, Node.js, Flask, FastAPI, RESTful APIs
-- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Transformers, LLMs, RAG 
-- **Data & Cloud:** Pandas, NumPy, FAISS, Vector Embeddings, Azure, GCP, CI/CD
-- **Tools & Testing:** Git, GitHub, Postman, Jupyter, VS Code
+- **Cloud & Tools:** Azure, GCP, CI/CD, Git, GitHub, Postman, VS Code
 ---
 
 ## 📊 GitHub Stats
