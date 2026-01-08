@@ -39,15 +39,11 @@
 
 ## 🛠️ Skills
 
-- **Programming:** Python, Java, C/C++, MySQL (database)
-- **Web:** HTML, CSS, JavaScript, Bootstrap, ReactJS, Flask, FastAPI, Streamlit
-- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Deep Learning, LLMs, Generative AI
-- **NLP:** HuggingFace, spaCy, NLTK, Text Analytics, Prompt Engineering
-- **Cloud & DevOps:** AWS, GCP, Azure, GitHub Actions
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Software Engineering:** DSA, RESTful APIs, System Design (basics)
-- **Other:** Git, Postman, Open Source Contribution, Project Management, Communication & Teamwork
-
+- **Programming:** Python, C/C++, Go (Golang), Java (DSA), SQL
+- **Full-Stack:** HTML, CSS, JavaScript, React.js, Node.js, Flask, FastAPI, RESTful APIs
+- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Transformers, LLMs, RAG 
+- **Data & Cloud:** Pandas, NumPy, FAISS, Vector Embeddings, Azure, GCP, CI/CD
+- **Tools & Testing:** Git, GitHub, Postman, Jupyter, VS Code
 ---
 
 ## 📊 GitHub Stats
